@@ -1,0 +1,4 @@
+com.aws.glue.demo.jdbc.MySQLDriver
+
+
+jdbc:mysql://mydb-instance.cnetrl8ijmre.us-west-1.rds.amazonaws.com:3306/mydatabase
